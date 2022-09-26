@@ -1,4 +1,4 @@
-# SYST15892-RideShareApp
+#RideShareApp
 UX Design Final Project
 
 
